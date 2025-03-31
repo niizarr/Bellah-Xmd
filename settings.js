@@ -8,24 +8,24 @@ const chalk = require('chalk')
 if (fs.existsSync('.env')) require('dotenv').config({ path: __dirname+'/.env' })
 
 
-global.SESSION_ID = process.env.SESSION_ID || 'Bellah~m2xDSJAS#cXaReUMFXZBxDu0kZ8ck_cgjIEBgC2_-AUY-3go8qwM' 
+global.SESSION_ID = process.env.SESSION_ID || 'Bellah~Luw01CrT#kTNz6KoZ78q0dpaV7fh2gbhva4hZDEty2s86RUpD7j0' 
 //owmner v card
-global.ytname = "YT: GIDDYTENNOR" //ur yt chanel name
-global.socialm = "IG: @GIDDYTENNOR" //ur github or insta name
-global.location = "Kenya" //ur location
+global.ytname = "YT: N1z4r - !" //ur yt chanel name
+global.socialm = "IG: @mouhammed.tahiri" //ur github or insta name
+global.location = "Morocco" //ur location
 
 //new
-global.botname = process.env.BOT_NAME ||'𝐁𝐞𝐥𝐥𝐚𝐡 𝐗𝐦𝐝' //enter your  bot name here
-global.ownernumber = process.env.OWNER_NUMBER ||'254104245659' //ur owner number
-global.ownername = '© TENNOMODZ' //ur owner name
+global.botname = process.env.BOT_NAME ||'Nezzaarrr!' //enter your  bot name here
+global.ownernumber = process.env.OWNER_NUMBER ||'212691649677' //ur owner number
+global.ownername = '© Nezzaaarr!' //ur owner name
 global.websitex = "https://whatsapp.com/channel/0029VaPZWbY1iUxVVRIIOm0D" //"https://chat.whatsapp.com/JmsgzJllAAB8zHfQcJXxES"
 global.wagc = "https://chat.whatsapp.com/CzFlFQrkdzxFw0pxCBYM7H" //"https://chat.whatsapp.com/JmsgzJllAAB8zHfQcJXxES"
 global.themeemoji = '🪀'
-global.wm = "GIDDY TENNOR"
+global.wm = "Nezzaaarr!"
 global.botscript = 'https://whatsapp.com/channel/0029VaPZWbY1iUxVVRIIOm0D' //'https://chat.whatsapp.com/JmsgzJllAAB8zHfQcJXxES' //script link
 global.packname = process.env.PACK_NAME ||"VolTah Xmd" //enter your stickers author name here
-global.author = "Giddy-Tennor"
-global.creator = "254703726139@s.whatsapp.net"
+global.author = "N1z4r"
+global.creator = "212691649677@s.whatsapp.net"
 global.xprefix = process.env.BOT_PREFIX ||'.'
 global.hituet = 0
 
@@ -44,12 +44,12 @@ global.autotyping = process.env.AUTO_TYPING || 'true'
 global.mess = {
 	limit: 'Your limit is up <\>',
 	nsfw: 'Nsfw is disabled in this group, Please tell the admin to enable',
-	owner: 'Bellah Xmd owner only<\>',
-    admin: 'Bot is not admin<\>',
+	owner: 'Nezzaarrr! owner only<\>',
+    admin: 'lbot machi  admin ya wld lq7ba<\>',
     group: 'feature for group only<\>',
-    done: 'Done ✓',
-    error: 'Error !',
-    success: 'Succes •'
+    done: 'safii ✓',
+    error: 'Error azb !',
+    success: 'sd9aat •'
 }
 //thumbnail
 
